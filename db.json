@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "product": "Mobile",
+      "price": 30000,
+      "id": 2
+    },
+    {
+      "product": "Shirt",
+      "price": 300,
+      "id": 3
+    },
+    {
+      "product": "Suit",
+      "price": 4000,
+      "id": 4
+    },
+    {
+      "product": "Car",
+      "price": 400000,
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
