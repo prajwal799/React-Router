@@ -3,7 +3,6 @@ import { AuthData } from "../context/AuthDataApi"
 import { Price } from "../context/AuthPrice";
 import Card from "./card";
 import CardItemList from "./cardItemList";
-import TotalPrice from "./TotalPrice";
 import "./module.css"
 
 function Show(){
@@ -23,7 +22,7 @@ function Show(){
               <th >Final Price</th>
             </tr>
             {isPrice.map((item) => (
-              <CardItemList key={item.id} price={item.price} quantity={item.quantity} />
+              <CardItemList key={item.id} name={item.name} price={item.price} quantity={item.quantity} />
             ))}
             <tr>
               <th colspan="3">Total Price</th>

@@ -3,7 +3,7 @@ import { AuthData } from "../context/AuthDataApi";
 import { Price } from "../context/AuthPrice";
 import "./module.css"
 
-const CardItemList = ({price,quantity}) => {
+const CardItemList = ({name,price,quantity}) => {
     const [totalPrice , setTotalPrice] = useContext(Price)
     let final_Price = price*quantity;
      useEffect(() => {
@@ -17,7 +17,7 @@ const CardItemList = ({price,quantity}) => {
     return(
        <>
        <tr>
-            <td >Item:</td>
+            <td >{name}</td>
             <td >{price}</td>
              <td >{quantity}</td>
              <td >{final_Price}</td>
