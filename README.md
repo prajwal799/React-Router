@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+## Deploy on Netlify
+/*  netlify deploy
+https://61b7c5bf46f4582b5c8960cd--prajwalcarditem.netlify.app/card
+ */
+
+## Deply on Vercel
+ / * Vercel deploy  
+ https://prajwal-card-add-item-hbag2ggz6-prajwal799.vercel.app/card
+ */
+
+## Deploy on Heroku
+ / * Heroku 
+ https://intense-lake-30927.herokuapp.com/card
+  * /
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
