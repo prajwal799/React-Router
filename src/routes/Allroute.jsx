@@ -7,15 +7,20 @@ import Service from "../page/Servicepage";
 import Product from "../page/Product.jsx";
 import ProductDetalis from "../page/ProductDetalis.jsx";
 import { Link } from "react-router-dom";
+import Card from "../card/card.jsx";
+import Show from "../card/show.jsx";
 
 function AllRoute(){
     return (
         <div>
            <Switch>
             <Route  exact path="/" >
-                <Home />
+                <Card />
             </Route>
-            <Route exact path="/product">
+            <Route>
+                <Show />
+            </Route>
+            {/* <Route exact path="/product">
                 <Product/>
             </Route>
             <Route exact path="/product/:id">
@@ -32,7 +37,7 @@ function AllRoute(){
             </Route>
             <Route path="/login">
                 <Login/>
-            </Route>
+            </Route> */}
             <Route  >
                 <h1> Create a 404 page, if the route does not exist</h1>
                 <Link to="/">Go Back</Link>

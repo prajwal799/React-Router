@@ -5,14 +5,18 @@ import App from './App';
 import {BrowserRouter} from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 import CreateAuth from './context/AuthContextApi';
+import ItemListAdd from "./context/AuthDataApi"
+import SetPrice from './context/AuthPrice';
 
 ReactDOM.render(
   <React.StrictMode>
-    <CreateAuth>
+    <ItemListAdd >
+      <SetPrice>
     <BrowserRouter>
     <App />
     </BrowserRouter>
-    </CreateAuth>
+      </SetPrice>
+    </ItemListAdd>
   </React.StrictMode>,
   document.getElementById('root')
 );

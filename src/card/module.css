@@ -1,0 +1,18 @@
+.btn_add_minus{
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    border: 1px solid black;
+}
+.add_btn{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+}
+table th{
+    width: 200px;
+}
+table td{
+    width: 200px;
+
+}

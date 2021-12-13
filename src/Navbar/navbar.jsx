@@ -4,11 +4,12 @@ function Navbar(){
     return(
         <div className="navbar"> 
           <Link to="/">Home</Link>
-          <Link to="/product">Product</Link>
+          <Link to="/showitem">ShowItem</Link>
+          {/* <Link to="/product">Product</Link>
           <Link to="/login">Login</Link>
           <Link to="/service">Service</Link>
           <Link to="/contact">Contact</Link>
-          <Link to="/about">About</Link>
+          <Link to="/about">About</Link> */}
         </div>
     )
 }

@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "product_name": "Turkey - Breast, Double",
+    "image_url": "http://dummyimage.com/200x200.jpg/dddddd/000000",
+    "description": "dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla",
+    "price": 987
+  },
+   {
+    "id": 2,
+    "product_name": "Bread - Burger",
+    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000",
+    "description": "felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices",
+    "price": 763
+  },
+   {
+    "id": 3,
+    "product_name": "Beans - Kidney White",
+    "image_url": "http://dummyimage.com/200x200.jpg/dddddd/000000",
+    "description": "posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi",
+    "price": 231
+  },
+  {
+    "id": 4,
+    "product_name": "Onion",
+    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000",
+    "description": "As the name suggests, stem vegetables are the above-ground stem or stalk of a plant. Stem vegetables are almost entirely (all) edible, so there’s a lot less food waste than with some other vegetables.",
+    "price": 63
+  },
+   {
+    "id": 5,
+    "product_name": "Rhubard",
+    "image_url": "http://dummyimage.com/200x200.jpg/dddddd/000000",
+    "description": "If you ever get the chance to try a slice of rhubarb pie, don’t pass it up!",
+    "price": 231
+  },
+  {
+    "id": 6,
+    "product_name": "Celery",
+    "image_url": "http://dummyimage.com/200x200.jpg/dddddd/000000",
+    "description": "Vegetables that are the leaves of plants are often called leafy greens or salad greens. ",
+    "price": 987
+  },
+   {
+    "id": 7,
+    "product_name": "Lettuce",
+    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000",
+    "description": "There are over a dozen (12) different types of lettuce, including bib lettuce, curly endive, romaine and iceberg.",
+    "price": 763
+  },
+   {
+    "id": 8,
+    "product_name": "Kale",
+    "image_url": "http://dummyimage.com/200x200.jpg/dddddd/000000",
+    "description": "Kale is the king of nutrient-dense (full of nutrients) leafy greens and is considered a superfood (food that has a lot of vitamins and minerals). Kale is really delicious (tasty) in salad and soups.",
+    "price": 231
+  },
+  {
+    "id": 9,
+    "product_name": "Arugula",
+    "image_url": "http://dummyimage.com/200x200.png/dddddd/000000",
+    "description": "Arugula is a flavorful dark leafy green that’s called by many other names, such as rocket, colewort, roquette, rucoli and rucola.",
+    "price": 63
+  },
+   {
+    "id": 10,
+    "product_name": "Artichokes",
+    "image_url": "http://dummyimage.com/200x200.jpg/dddddd/000000",
+    "description": "Artichokes are actually related to big, beautiful sunflowers!",
+    "price": 231
+  }
+]
